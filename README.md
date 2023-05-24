@@ -1,6 +1,7 @@
 # Dr. Marcelo: Urologista
-  web-site do tipo de portifolio pessoal
+  web-site do tipo: Portifolio Pessoal.
+  cliente: Marcelo Arruda.
   
  Projeto:
-  - em parceria com Essenz.
-  - desenvolvimento web com Knight Capivara.
+  - Desenvolvido por Knight Capivara.
+  - Parceria com Essenz - Marketing Digital.
